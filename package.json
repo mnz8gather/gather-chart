@@ -1,0 +1,10 @@
+{
+  "name": "gather-chart",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "react": "pnpm -F=react-vite dev",
+    "clear": "sh ./scripts/clear.sh"
+  },
+  "packageManager": "pnpm@10.12.4"
+}
